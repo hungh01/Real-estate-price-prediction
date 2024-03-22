@@ -1,0 +1,490 @@
+bed,bath,area,budget,price,local_street,local_ward,local_district,local_city
+2,2,53.5,6.5,121.49,Đ.Diên Hồng,P.1,Q.Bình Thạnh,Hồ Chí Minh
+2,2,19.5,3.8,194.87,lê văn duyệt,P.1,Q.Bình Thạnh,Hồ Chí Minh
+2,2,25.7,3.05,118.67,Đ.Đinh Tiên Hoàng,P.1,Q.Bình Thạnh,Hồ Chí Minh
+3,3,31.4,4.3,136.94,Đ.Đinh Tiên Hoàng,P.1,Q.Bình Thạnh,Hồ Chí Minh
+1,1,39.5,5.7,144.3,Đ.Đinh Tiên Hoàng,P.1,Q.Bình Thạnh,Hồ Chí Minh
+5,4,85.1,24,282.02,Đ.Trịnh Hoài Đức,P.1,Q.Bình Thạnh,Hồ Chí Minh
+4,4,62.6,17.5,279.55,lê văn duyệt,P.1,Q.Bình Thạnh,Hồ Chí Minh
+2,3,18.1,3.2,176.79,lê văn duyệt,P.1,Q.Bình Thạnh,Hồ Chí Minh
+3,2,45.9,7.2,156.86,lê văn duyệt,P.1,Q.Bình Thạnh,Hồ Chí Minh
+3,4,32.3,7,216.71,Đ.Đinh Tiên Hoàng,P.1,Q.Bình Thạnh,Hồ Chí Minh
+3,2,60.5,8.5,140.49,Đ.Yên Đỗ,P.1,Q.Bình Thạnh,Hồ Chí Minh
+1,1,38.1,5.8,152.23,lê văn duyệt,P.1,Q.Bình Thạnh,Hồ Chí Minh
+3,2,51.1,7,136.98,lê văn duyệt,P.1,Q.Bình Thạnh,Hồ Chí Minh
+3,2,41.05,7.2,175.39,Đ.Đinh Tiên Hoàng,P.1,Q.Bình Thạnh,Hồ Chí Minh
+2,2,20.7,5.13,247.82,lê văn duyệt,P.1,Q.Bình Thạnh,Hồ Chí Minh
+2,2,20.9,2.6,124.4,Đ.Vũ Tùng,P.2,Q.Bình Thạnh,Hồ Chí Minh
+2,2,22,4.3,195.45,Đ.Vũ Tùng,P.2,Q.Bình Thạnh,Hồ Chí Minh
+3,3,80.1,10,124.84,Đ.Vũ Tùng,P.2,Q.Bình Thạnh,Hồ Chí Minh
+3,5,62.9,15,238.47,Đ.Bùi Hữu Nghĩa,P.2,Q.Bình Thạnh,Hồ Chí Minh
+7,7,159.8,19,118.89,Đ.Bùi Hữu Nghĩa,P.2,Q.Bình Thạnh,Hồ Chí Minh
+6,7,61.8,15,242.71,Đ.Bùi Hữu Nghĩa,P.2,Q.Bình Thạnh,Hồ Chí Minh
+1,1,19,3.95,207.89,Đ.Vũ Tùng,P.2,Q.Bình Thạnh,Hồ Chí Minh
+3,3,40,10.5,262.5,Đ.Bạch Đằng,P.2,Q.Bình Thạnh,Hồ Chí Minh
+4,3,70.6,18.2,257.79,Đ.Vũ Huy Tấn,P.3,Q.Bình Thạnh,Hồ Chí Minh
+2,1,30.6,3.5,114.37,Đ.Nguyễn Lâm,P.3,Q.Bình Thạnh,Hồ Chí Minh
+4,3,85.9,9.5,110.59,Đ.Vũ Huy Tấn,P.3,Q.Bình Thạnh,Hồ Chí Minh
+3,3,16.8,2.95,175.59,Đ.Vạn Kiếp,P.3,Q.Bình Thạnh,Hồ Chí Minh
+4,4,67.4,5.6,83.08,Đ.Lê Quang Định,P.5,Q.Bình Thạnh,Hồ Chí Minh
+3,3,22.6,3.3,146.01,Đ.Hoàng Hoa Thám,P.5,Q.Bình Thạnh,Hồ Chí Minh
+2,3,19.2,3,156.24,Đ.Hoàng Hoa Thám,P.5,Q.Bình Thạnh,Hồ Chí Minh
+4,5,63,9.5,150.79,Đ.Hoàng Hoa Thám,P.5,Q.Bình Thạnh,Hồ Chí Minh
+3,3,42.4,6.6,155.66,Đ.Nguyễn Văn Đậu,P.5,Q.Bình Thạnh,Hồ Chí Minh
+3,3,29.37,6.1,207.69,Đ.Hoàng Hoa Thám,P.5,Q.Bình Thạnh,Hồ Chí Minh
+2,2,159.2,23,144.47,Đ.Nguyễn Trung Trực,P.5,Q.Bình Thạnh,Hồ Chí Minh
+2,3,42.2,7.6,180.09,Đ.Nguyễn Thượng Hiền,P.5,Q.Bình Thạnh,
+2,1,10.1,1.85,183.16,Đ.Trần Bình Trọng,P.5,Q.Bình Thạnh,Hồ Chí Minh
+4,5,38.5,7.2,187.01,Đ.Hoàng Hoa Thám,P.5,Q.Bình Thạnh,Hồ Chí Minh
+3,3,37.2,8.5,228.49,Đ.Nguyễn Văn Đậu,P.5,Q.Bình Thạnh,Hồ Chí Minh
+2,2,39.6,4.8,121.21,Đ.Nguyễn Thượng Hiền,P.5,Q.Bình Thạnh,
+3,2,97.2,29.5,303.49,Đ.Nguyễn Văn Đậu,P.5,Q.Bình Thạnh,Hồ Chí Minh
+4,5,80.5,13.8,171.42,Đ.Hoàng Hoa Thám,P.5,Q.Bình Thạnh,Hồ Chí Minh
+24,24,147.7,27.5,186.18,Đ.Nguyễn Trung Trực,P.5,Q.Bình Thạnh,Hồ Chí Minh
+5,4,95.5,13,136.12,Đ.Trần Bình Trọng,P.5,Q.Bình Thạnh,Hồ Chí Minh
+2,2,21,3.8,180.95,Đ.Nguyễn Thượng Hiền,P.6,Q.Bình Thạnh,
+3,3,211,35,165.87,Đ.Nguyễn Huy Tưởng,P.6,Q.Bình Thạnh,Hồ Chí Minh
+6,7,53.3,8.9,166.97,Đ.Nguyễn Thượng Hiền,P.6,Q.Bình Thạnh,
+6,3,33.5,5.3,158.2,Đ.Hoàng Hoa Thám,P.6,Q.Bình Thạnh,Hồ Chí Minh
+4,4,77.7,16,205.92,Đ.Phan Đăng Lưu,P.6,Q.Bình Thạnh,Hồ Chí Minh
+2,3,25.1,3.6,143.42,Đ.Hoàng Hoa Thám,P.6,Q.Bình Thạnh,Hồ Chí Minh
+2,2,25.6,3.4,132.81,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+2,2,18.7,2.9,155.08,Đ.Phan Văn Trị,P.11,Q.Bình Thạnh,Hồ Chí Minh
+11,9,68.7,6.5,94.61,Đ.Phan Văn Trị,P.11,Q.Bình Thạnh,Hồ Chí Minh
+2,2,41.6,4.65,111.77,Đ.Phan Văn Trị,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,2,48.5,5.2,107.21,Đ.Nguyễn Khuyến,P.12,Q.Bình Thạnh,Hồ Chí Minh
+6,6,41.4,5.95,143.71,Đ.Ngô Đức Kế,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,61.6,5.7,92.53,Đ.Phan Văn Trị,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,2,26.4,4.15,157.19,Đ.Bùi Đình Túy,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,3,17.6,2.6,147.72,Đ.Phan Văn Trị,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,37.3,6.5,174.26,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+1,1,85,6.8,80,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+4,4,102.7,12.9,125.6,Đ.Phan Văn Trị,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,2,56.5,8.5,150.44,Đ.Bùi Đình Túy,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,2,33.8,6,177.51,Đ.Bùi Đình Túy,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,2,82.2,6.5,79.07,Đ.Nguyễn Khuyến,P.12,Q.Bình Thạnh,Hồ Chí Minh
+4,5,65.7,9.2,140.03,Đ.Bùi Đình Túy,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,2,32.1,4.7,146.41,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+4,3,79.4,6.9,86.9,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,2,191.4,17,88.81,Đ.Chu Văn An,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,2,41.2,4.8,116.5,Đ.Chu Văn An,P.12,Q.Bình Thạnh,Hồ Chí Minh
+1,1,50,5.65,113,Đ.Chu Văn An,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,4,46.4,5.86,126.29,Đ.Chu Văn An,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,2,40.7,5.5,135.13,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,2,18.3,5.3,289.61,Đ.Ngô Đức Kế,P.12,Q.Bình Thạnh,Hồ Chí Minh
+10,10,100.1,16.5,164.83,Đ.Bùi Đình Túy,P.12,Q.Bình Thạnh,Hồ Chí Minh
+12,12,100,17.5,175,Đ.Chu Văn An,P.12,Q.Bình Thạnh,Hồ Chí Minh
+7,6,58,11,189.65,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+8,8,58.3,9.35,160.37,Đ.Phan Văn Trị,P.12,Q.Bình Thạnh,Hồ Chí Minh
+5,5,383.9,53.5,139.35,Đ.Bùi Đình Túy,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,2,130,4.25,32.69,Đ.Chu Văn An,P.12,Q.Bình Thạnh,Hồ Chí Minh
+2,3,7.8,2.03,260.25,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,63,8,126.98,Đ.Trục 30,P.13,Q.Bình Thạnh,Hồ Chí Minh
+3,3,58.2,5.9,101.37,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,2,28.3,3.55,125.44,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,2,66.4,5.7,85.84,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,3,30.4,7.2,236.84,Đ.Nguyễn Xí,P.13,Q.Bình Thạnh,Hồ Chí Minh
+3,4,34.2,4.2,122.8,Đ.Nguyễn Xí,P.13,Q.Bình Thạnh,Hồ Chí Minh
+4,5,69,12.5,181.15,Đ.Nguyễn Xí,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,1,153.2,17,110.96,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,2,26.9,3.2,118.95,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,2,58.2,6,103.09,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+6,5,115,25,217.39,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+19,19,154.9,20,129.11,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+4,7,91.5,15,163.93,Đ.Nguyễn Xí,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,2,158.3,16.2,102.33,Đ.Nguyễn Xí,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,1,83.4,6.8,81.53,Đ.Nơ Trang Long,P.13,Q.Bình Thạnh,Hồ Chí Minh
+2,2,18.8,2.75,146.27,Đ.Phan Bội Châu,P.14,Q.Bình Thạnh,Hồ Chí Minh
+4,3,32.3,5.4,167.18,Đ.Phan Bội Châu,P.14,Q.Bình Thạnh,Hồ Chí Minh
+4,5,86.6,22,254.04,Đ.Nguyễn An Ninh,P.14,Q.Bình Thạnh,Hồ Chí Minh
+4,5,159.9,28,175.1,Đ.Lê Quang Định,P.14,Q.Bình Thạnh,Hồ Chí Minh
+2,2,161,41,254.65,Đ.Bạch Đằng,P.14,Q.Bình Thạnh,Hồ Chí Minh
+3,3,17,3.1,182.35,Đ.Nơ Trang Long,P.14,Q.Bình Thạnh,Hồ Chí Minh
+6,4,97,8.9,91.75,Đ.Nơ Trang Long,P.14,Q.Bình Thạnh,Hồ Chí Minh
+2,2,60,4.95,82.5,Đ.Nguyễn An Ninh,P.14,Q.Bình Thạnh,Hồ Chí Minh
+2,2,27,4.4,162.96,Đ.Trần Văn Kỷ,P.14,Q.Bình Thạnh,Hồ Chí Minh
+3,5,65.4,20.5,313.45,Đ.Bùi Đình Túy,P.14,Q.Bình Thạnh,Hồ Chí Minh
+3,4,74.7,6.75,90.36,Đ.Nơ Trang Long,P.14,Q.Bình Thạnh,Hồ Chí Minh
+2,2,48.4,10,206.61,Đ.Trần Văn Kỷ,P.14,Q.Bình Thạnh,Hồ Chí Minh
+5,4,81.2,25,307.88,Đ.Huỳnh Đình Hai,P.14,Q.Bình Thạnh,Hồ Chí Minh
+1,1,12.41,3.7,298.14,Đ.Trường Sa,P.15,Q.Bình Thạnh,Hồ Chí Minh
+1,1,36.5,3.8,104.1,Đ.Bạch Đằng,P.15,Q.Bình Thạnh,Hồ Chí Minh
+2,2,18,2.95,163.88,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+4,3,62.2,9.9,159.16,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+2,2,73.6,6.2,84.23,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+2,2,45.5,5.6,123.07,Đ.Trường Sa,P.15,Q.Bình Thạnh,Hồ Chí Minh
+2,2,64.7,5.99,92.58,Đ.Bạch Đằng,P.15,Q.Bình Thạnh,Hồ Chí Minh
+2,2,40.2,3.8,94.52,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+3,3,19.7,4.2,213.19,Đ.Trường Sa,P.15,Q.Bình Thạnh,Hồ Chí Minh
+2,2,35,5.5,157.14,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+4,5,85.3,19,222.74,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+18,18,128.9,16,124.12,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+6,5,86.6,29.5,340.64,Đ.Bạch Đằng,P.15,Q.Bình Thạnh,Hồ Chí Minh
+1,1,244.7,80,326.93,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+5,4,47.4,10,210.97,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+4,3,72,12.5,173.61,Đ.Đinh Bộ Lĩnh,P.15,Q.Bình Thạnh,Hồ Chí Minh
+2,2,26.5,9,339.62,Đ.Trường Sa,P.15,Q.Bình Thạnh,Hồ Chí Minh
+1,2,36,11,305.55,Đ.Bạch Đằng,P.15,Q.Bình Thạnh,Hồ Chí Minh
+4,4,74.6,6.8,91.15,Đ.Bạch Đằng,P.15,Q.Bình Thạnh,Hồ Chí Minh
+3,3,46.6,6.8,145.92,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+1,1,26.9,4.5,167.28,Đ.Điện Biên Phủ,P.15,Q.Bình Thạnh,Hồ Chí Minh
+8,9,81.3,9.7,119.31,Đ.Nguyễn Cửu Vân,P.17,Q.Bình Thạnh,Hồ Chí Minh
+2,2,61.1,6,98.19,Đ.Xô Viết Nghệ Tĩnh,P.17,Q.Bình Thạnh,Hồ Chí Minh
+1,1,24.5,3.2,130.61,Đ.Nguyễn Cửu Vân,P.17,Q.Bình Thạnh,Hồ Chí Minh
+2,3,21.2,4.6,216.98,Đ.Nguyễn Cửu Vân,P.17,Q.Bình Thạnh,Hồ Chí Minh
+2,2,18,4,222.22,Đ.Phan Văn Hân,P.17,Q.Bình Thạnh,Hồ Chí Minh
+2,1,103,10.5,101.94,Đ.Nguyễn Cửu Vân,P.17,Q.Bình Thạnh,Hồ Chí Minh
+2,1,101,17,168.31,Đ.Nguyễn Cửu Vân,P.17,Q.Bình Thạnh,Hồ Chí Minh
+2,2,72,11,152.77,Đ.Điện Biên Phủ,P.17,Q.Bình Thạnh,Hồ Chí Minh
+2,2,43.8,12,273.97,Đ.Nguyễn Ngọc Phương,P.19,Q.Bình Thạnh,
+3,2,57.99,10.3,177.61,Đ.Công Trường Tự Do,P.19,Q.Bình Thạnh,
+1,1,22.8,3,131.57,Đ.Phạm Viết Chánh,P.19,Q.Bình Thạnh,Hồ Chí Minh
+4,3,60.5,8.8,145.45,Đ.Huỳnh Mẫn Đạt,P.19,Q.Bình Thạnh,Hồ Chí Minh
+1,1,54.7,5,91.4,Đ.Nguyễn Công Trứ,P.19,Q.Bình Thạnh,Hồ Chí Minh
+2,2,41.4,9,217.39,Đ.Trần Quang Long,P.19,Q.Bình Thạnh,Hồ Chí Minh
+2,2,97.3,19,195.27,Đ.Phan Huy Ôn,P.19,Q.Bình Thạnh,Hồ Chí Minh
+4,4,67.7,15,221.56,Đ.Mê Linh,P.19,Q.Bình Thạnh,Hồ Chí Minh
+3,3,170.4,38,223,Đ.Nguyễn Văn Lạc,P.19,Q.Bình Thạnh,Hồ Chí Minh
+2,2,56.6,12.9,227.91,Đ.Nguyễn Hữu Cảnh,P.19,Q.Bình Thạnh,Hồ Chí Minh
+3,2,20.5,4.9,239.02,Đ.Ngô Tất Tố,P.19,Q.Bình Thạnh,Hồ Chí Minh
+1,1,80,2.1,26.25,Đ.Phan Huy Ôn,P.19,Q.Bình Thạnh,Hồ Chí Minh
+3,3,47.28,6.4,135.36,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+2,2,38.9,5.2,133.67,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+1,1,46,4.55,98.91,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+2,2,85.4,8.5,99.53,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+1,1,14.2,2.1,147.88,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+2,2,44,5.9,134.09,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+3,2,47,5.3,112.76,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+2,1,74.4,6.3,84.67,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+2,1,40.1,3.75,93.51,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+3,3,62,9.8,158.06,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+3,2,35.4,4.6,129.94,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+2,2,18.3,2.4,131.14,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+1,1,18.3,3.1,169.39,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+9,9,43.1,7.9,183.29,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+2,2,62.1,12,193.23,Đ.Xô Viết Nghệ Tĩnh,P.21,Q.Bình Thạnh,Hồ Chí Minh
+2,2,46.9,5,106.6,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+2,2,31.5,8.2,260.31,Đ.Nguyễn Hữu Cảnh,P.22,Q.Bình Thạnh,
+3,2,116.2,9,77.45,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+1,2,79.8,16,200.5,Đ.Điện Biên Phủ,P.22,Q.Bình Thạnh,Hồ Chí Minh
+4,3,35.4,5.9,166.66,Đ.Ngô Tất Tố,P.22,Q.Bình Thạnh,Hồ Chí Minh
+3,4,70.9,12,169.25,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+2,2,25.3,3.5,138.33,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+3,4,15.7,4,254.77,Đ.Điện Biên Phủ,P.22,Q.Bình Thạnh,Hồ Chí Minh
+2,1,20.93,3,143.33,Đ.Ngô Tất Tố,P.22,Q.Bình Thạnh,Hồ Chí Minh
+2,2,51,6.8,133.33,Đ.Ngô Tất Tố,P.22,Q.Bình Thạnh,Hồ Chí Minh
+4,4,44.1,5.7,129.25,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+3,3,72.8,15,206.04,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+3,3,57.7,5.5,95.32,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+3,2,194.8,24,123.2,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+4,2,43.6,16,366.97,Đ.Ngô Tất Tố,P.22,Q.Bình Thạnh,Hồ Chí Minh
+4,1,21.1,3.05,144.54,Đ.Điện Biên Phủ,P.22,Q.Bình Thạnh,Hồ Chí Minh
+3,2,31.2,7,224.35,Đ.Võ Duy Ninh,P.22,Q.Bình Thạnh,Hồ Chí Minh
+2,2,68.8,8,116.27,Đ.Phú Mỹ,P.22,Q.Bình Thạnh,Hồ Chí Minh
+3,4,118.3,14,118.34,Đ.Nguyễn Hữu Cảnh,P.22,Q.Bình Thạnh,
+1,1,18.8,3.3,175.53,Đ.Nguyễn Hữu Cảnh,P.22,Q.Bình Thạnh,
+3,2,93.8,11.8,125.79,Đ.Ngô Tất Tố,P.22,Q.Bình Thạnh,Hồ Chí Minh
+7,3,48.1,8,166.32,Đ.Ngô Tất Tố,P.22,Q.Bình Thạnh,Hồ Chí Minh
+3,2,26,5.8,223.07,Đ.Ngô Tất Tố,P.22,Q.Bình Thạnh,Hồ Chí Minh
+2,2,135.9,17,125.09,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+5,5,79.8,27,338.34,Đ.Đinh Bộ Lĩnh,P.24,Q.Bình Thạnh,Hồ Chí Minh
+4,3,77.3,17,219.92,Đ.Bạch Đằng,P.24,Q.Bình Thạnh,Hồ Chí Minh
+4,4,86.2,8.6,99.76,Đ.Huỳnh Đình Hai,P.24,Q.Bình Thạnh,Hồ Chí Minh
+1,1,133.4,14,104.94,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+5,3,107.1,16,149.39,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+5,5,85.1,13.9,163.33,Đ.Đinh Bộ Lĩnh,P.24,Q.Bình Thạnh,Hồ Chí Minh
+18,18,136.9,22,160.7,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+7,5,51.6,9,174.41,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+4,5,201.3,23,114.25,Đ.Phan Chu Trinh,P.24,Q.Bình Thạnh,Hồ Chí Minh
+4,5,93.8,17.3,184.43,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+18,18,157.2,26.5,168.57,Đ.Bạch Đằng,P.24,Q.Bình Thạnh,Hồ Chí Minh
+9,9,52,7,134.61,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+5,4,30.1,15,498.33,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+2,2,11.8,1.79,151.69,Đ.Bạch Đằng,P.24,Q.Bình Thạnh,Hồ Chí Minh
+4,3,49.8,12.5,251,Đ.Bạch Đằng,P.24,Q.Bình Thạnh,Hồ Chí Minh
+2,1,76.5,5,65.35,Đ.Huỳnh Đình Hai,P.24,Q.Bình Thạnh,Hồ Chí Minh
+4,3,72.8,11,151.09,Đ.Bùi Đình Túy,P.24,Q.Bình Thạnh,Hồ Chí Minh
+5,4,39.8,6.5,163.31,Đ.Phan Chu Trinh,P.24,Q.Bình Thạnh,Hồ Chí Minh
+5,5,199.4,44,220.66,Đ.Xô Viết Nghệ Tĩnh,P.24,Q.Bình Thạnh,Hồ Chí Minh
+2,2,99.3,15.5,156.09,Đ.Nguyễn Thiện Thuật,P.24,Q.Bình Thạnh,
+6,5,184.5,27,146.34,Đ.Bạch Đằng,P.24,Q.Bình Thạnh,Hồ Chí Minh
+4,3,25.5,3.7,145.09,Đ.Phan Chu Trinh,P.24,Q.Bình Thạnh,Hồ Chí Minh
+2,1,51.2,6,117.18,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+2,2,74,11.5,155.4,Đ.Võ Oanh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+3,1,41.7,4.9,117.5,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+3,2,67.7,18,265.87,Đ.Nguyễn Văn Thương,P.25,Q.Bình Thạnh,
+4,2,66.4,7.5,112.95,Đ.D2,P.25,Q.Bình Thạnh,Hồ Chí Minh
+3,2,27,3.96,146.66,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+4,3,86,23,267.44,Đ.Ung Văn Khiêm,P.25,Q.Bình Thạnh,Hồ Chí Minh
+2,2,33.2,4.65,140.06,Đ.Điện Biên Phủ,P.25,Q.Bình Thạnh,Hồ Chí Minh
+2,2,51.5,6.5,126.21,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+4,3,37.5,5.7,152,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+6,7,43.4,7.9,182.02,Đ.Ung Văn Khiêm,P.25,Q.Bình Thạnh,Hồ Chí Minh
+4,4,82.2,19,231.14,Đ.Điện Biên Phủ,P.25,Q.Bình Thạnh,Hồ Chí Minh
+2,2,29,5,172.41,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+2,3,22.5,6.9,306.66,Đ.D1,P.25,Q.Bình Thạnh,Hồ Chí Minh
+3,4,74.9,12.2,162.88,Đ.Điện Biên Phủ,P.25,Q.Bình Thạnh,Hồ Chí Minh
+2,2,37.5,8.2,218.66,Đ.Điện Biên Phủ,P.25,Q.Bình Thạnh,Hồ Chí Minh
+3,2,111,11,99.09,Đ.Điện Biên Phủ,P.25,Q.Bình Thạnh,Hồ Chí Minh
+2,2,60,8.2,136.66,Đ.Ung Văn Khiêm,P.25,Q.Bình Thạnh,Hồ Chí Minh
+4,4,207.6,39,187.86,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+5,4,90.6,16.5,182.11,Đ.Nguyễn Gia Trí,P.25,Q.Bình Thạnh,Hồ Chí Minh
+6,6,115.7,15.8,136.56,Đ.Ung Văn Khiêm,P.25,Q.Bình Thạnh,Hồ Chí Minh
+1,1,92,20,217.39,Đ.Nguyễn Gia Trí,P.25,Q.Bình Thạnh,Hồ Chí Minh
+3,3,356.6,110,308.46,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+9,4,61.9,9,145.39,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+2,2,43.1,5.9,136.89,Đ.Xô Viết Nghệ Tĩnh,P.25,Q.Bình Thạnh,Hồ Chí Minh
+3,3,40.7,8.8,216.21,Đ.số 4,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,4,79.8,8.2,102.75,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,2,20.5,2.8,136.58,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,4,76.2,6,78.74,Đ.Quốc Lộ Số 13,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,3,36,6.6,183.33,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,2,36,5.8,161.11,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+6,6,104,11.5,110.57,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+6,4,48,6.4,133.33,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,2,62.2,5.5,88.42,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,3,63.9,7.95,124.41,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,133.9,19,141.89,Đ.Quốc Lộ Số 13,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,3,96.5,16.5,170.98,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,3,43.2,8.6,199.07,Đ.Số 6,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,152,14,92.1,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+6,5,62.8,17.5,278.66,Đ.Đinh Bộ Lĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,3,36.3,6.5,179.06,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,3,80,12.5,156.25,Đ.Số 3,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,231.2,18,77.85,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,80,13,162.5,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,4,80.2,15.9,198.25,Đ.Chu Văn An,P.26,Q.Bình Thạnh,Hồ Chí Minh
+5,4,76.4,11.5,150.52,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,1,54.2,5.2,95.94,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,50.8,6.95,136.81,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,4,70.6,14,198.3,Đ.Đinh Bộ Lĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,2,57.6,7.5,130.2,Đ.Đinh Bộ Lĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,3,40.7,8.8,216.21,Đ.số 4,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,4,79.8,8.2,102.75,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,2,20.5,2.8,136.58,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,4,76.2,6,78.74,Đ.Quốc Lộ Số 13,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,3,36,6.6,183.33,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,2,36,5.8,161.11,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+6,6,104,11.5,110.57,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+6,4,48,6.4,133.33,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,2,62.2,5.5,88.42,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,3,63.9,7.95,124.41,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,133.9,19,141.89,Đ.Quốc Lộ Số 13,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,3,96.5,16.5,170.98,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,3,43.2,8.6,199.07,Đ.Số 6,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,152,14,92.1,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+6,5,62.8,17.5,278.66,Đ.Đinh Bộ Lĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,3,36.3,6.5,179.06,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,3,80,12.5,156.25,Đ.Số 3,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,231.2,18,77.85,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,80,13,162.5,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,4,80.2,15.9,198.25,Đ.Chu Văn An,P.26,Q.Bình Thạnh,Hồ Chí Minh
+5,4,76.4,11.5,150.52,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+2,1,54.2,5.2,95.94,Đ.Xô Viết Nghệ Tĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+3,2,50.8,6.95,136.81,Đ.Nguyễn Xí,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,4,70.6,14,198.3,Đ.Đinh Bộ Lĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,2,57.6,7.5,130.2,Đ.Đinh Bộ Lĩnh,P.26,Q.Bình Thạnh,Hồ Chí Minh
+4,3,51.7,5.95,115.08,Đ.Âu Dương Lân,P.3,Q.8,Hồ Chí Minh
+4,4,49.9,6.45,129.25,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+2,2,44.2,4.95,111.99,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,50.1,5.35,106.78,Đ.Số 12,P.Hiệp Bình Phước,Q.Thủ Đức,Hồ Chí Minh
+2,3,22.3,5.15,230.94,Đ.Phùng Văn Cung,P.2,Q.Phú Nhuận,Hồ Chí Minh
+4,3,84.42,6.55,77.58,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+4,3,36,6.65,184.72,Đ.Nguyễn Hiền,P.4,Q.3,Hồ Chí Minh
+3,3,50.8,9.6,188.97,Đ.Ba Tháng Hai,P.2,Q.11,Hồ Chí Minh
+7,6,43.8,8.36,190.89,Đ.Tô Hiến Thành,P.13,Q.10,Hồ Chí Minh
+3,4,28,5.85,208.92,Đ.Thích Quảng Đức,P.5,Q.Phú Nhuận,Hồ Chí Minh
+2,2,55,5.75,104.54,Đ.Số 8,P.11,Q.Gò Vấp,Hồ Chí Minh
+3,3,24,6.1,254.16,Đ.Nguyễn Đình Chiểu,P.4,Q.3,Hồ Chí Minh
+3,3,27.9,6.35,227.59,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,4,94.2,11,116.77,Đ.28B,P.Phước Long B,Q.9,Hồ Chí Minh
+8,8,103.6,16.9,163.12,Đ.C1,P.13,Q.Tân Bình,Hồ Chí Minh
+6,2,237.9,22,92.47,Đ.QL13 Cũ,P.Hiệp Bình Phước,Q.Thủ Đức,
+3,2,169.4,4.25,25.08,Ấp 1,X.Quy Đức,H.Bình Chánh,Hồ Chí Minh
+7,4,34.6,13.5,390.17,Đ.Hùng Vương,P.1,Q.10,Hồ Chí Minh
+3,3,31.1,6,192.92,Đ.Đoàn Thị Điểm,P.1,Q.Phú Nhuận,Hồ Chí Minh
+7,11,177.8,35,196.85,Đ.Hậu Giang,P.4,Q.Tân Bình,Hồ Chí Minh
+4,4,87.5,5.15,58.85,Đ.Vườn Lài,P.An Phú Đông,Q.12,Hồ Chí Minh
+2,2,43.9,2.8,63.78,Đ.Hiệp Thành 26,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,3,25.2,2.4,95.23,Đ.Tùng Thiện Vương,P.11,Q.8,Hồ Chí Minh
+1,1,28.1,1.5,53.38,Đ.Nguyễn Tuân,P.3,Q.Gò Vấp,Hồ Chí Minh
+2,1,52.9,3,56.71,Đ.Hiệp Thành 13,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,2,21.1,3.2,151.65,Đ.Bùi Văn Thêm,P.9,Q.Phú Nhuận,Hồ Chí Minh
+1,1,77.5,2.95,38.06,Đ.Tân Chánh Hiệp 13,P.Tân Chánh Hiệp,Q.12,
+4,3,51.7,5.95,115.08,Đ.Âu Dương Lân,P.3,Q.8,Hồ Chí Minh
+4,4,49.9,6.45,129.25,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+2,2,44.2,4.95,111.99,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,50.1,5.35,106.78,Đ.Số 12,P.Hiệp Bình Phước,Q.Thủ Đức,Hồ Chí Minh
+2,3,22.3,5.15,230.94,Đ.Phùng Văn Cung,P.2,Q.Phú Nhuận,Hồ Chí Minh
+4,3,84.42,6.55,77.58,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+4,3,36,6.65,184.72,Đ.Nguyễn Hiền,P.4,Q.3,Hồ Chí Minh
+3,3,50.8,9.6,188.97,Đ.Ba Tháng Hai,P.2,Q.11,Hồ Chí Minh
+7,6,43.8,8.36,190.89,Đ.Tô Hiến Thành,P.13,Q.10,Hồ Chí Minh
+3,4,28,5.85,208.92,Đ.Thích Quảng Đức,P.5,Q.Phú Nhuận,Hồ Chí Minh
+2,2,55,5.75,104.54,Đ.Số 8,P.11,Q.Gò Vấp,Hồ Chí Minh
+3,3,27.9,6.35,227.59,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,3,24,6.1,254.16,Đ.Nguyễn Đình Chiểu,P.4,Q.3,Hồ Chí Minh
+3,4,94.2,11,116.77,Đ.28B,P.Phước Long B,Q.9,Hồ Chí Minh
+8,8,103.6,16.9,163.12,Đ.C1,P.13,Q.Tân Bình,Hồ Chí Minh
+6,2,237.9,22,92.47,Đ.QL13 Cũ,P.Hiệp Bình Phước,Q.Thủ Đức,
+3,2,169.4,4.25,25.08,Ấp 1,X.Quy Đức,H.Bình Chánh,Hồ Chí Minh
+7,4,34.6,13.5,390.17,Đ.Hùng Vương,P.1,Q.10,Hồ Chí Minh
+3,3,31.1,6,192.92,Đ.Đoàn Thị Điểm,P.1,Q.Phú Nhuận,Hồ Chí Minh
+7,11,177.8,35,196.85,Đ.Hậu Giang,P.4,Q.Tân Bình,Hồ Chí Minh
+4,4,87.5,5.15,58.85,Đ.Vườn Lài,P.An Phú Đông,Q.12,Hồ Chí Minh
+2,2,43.9,2.8,63.78,Đ.Hiệp Thành 26,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,3,25.2,2.4,95.23,Đ.Tùng Thiện Vương,P.11,Q.8,Hồ Chí Minh
+1,1,28.1,1.5,53.38,Đ.Nguyễn Tuân,P.3,Q.Gò Vấp,Hồ Chí Minh
+2,1,52.9,3,56.71,Đ.Hiệp Thành 13,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,2,21.1,3.2,151.65,Đ.Bùi Văn Thêm,P.9,Q.Phú Nhuận,Hồ Chí Minh
+1,1,77.5,2.95,38.06,Đ.Tân Chánh Hiệp 13,P.Tân Chánh Hiệp,Q.12,
+4,3,51.7,5.95,115.08,Đ.Âu Dương Lân,P.3,Q.8,Hồ Chí Minh
+4,4,49.9,6.45,129.25,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+2,2,44.2,4.95,111.99,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,50.1,5.35,106.78,Đ.Số 12,P.Hiệp Bình Phước,Q.Thủ Đức,Hồ Chí Minh
+2,3,22.3,5.15,230.94,Đ.Phùng Văn Cung,P.2,Q.Phú Nhuận,Hồ Chí Minh
+4,3,84.42,6.55,77.58,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+4,3,36,6.65,184.72,Đ.Nguyễn Hiền,P.4,Q.3,Hồ Chí Minh
+3,3,50.8,9.6,188.97,Đ.Ba Tháng Hai,P.2,Q.11,Hồ Chí Minh
+7,6,43.8,8.36,190.89,Đ.Tô Hiến Thành,P.13,Q.10,Hồ Chí Minh
+3,4,28,5.85,208.92,Đ.Thích Quảng Đức,P.5,Q.Phú Nhuận,Hồ Chí Minh
+2,2,55,5.75,104.54,Đ.Số 8,P.11,Q.Gò Vấp,Hồ Chí Minh
+3,3,24,6.1,254.16,Đ.Nguyễn Đình Chiểu,P.4,Q.3,Hồ Chí Minh
+3,3,27.9,6.35,227.59,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,4,94.2,11,116.77,Đ.28B,P.Phước Long B,Q.9,Hồ Chí Minh
+8,8,103.6,16.9,163.12,Đ.C1,P.13,Q.Tân Bình,Hồ Chí Minh
+6,2,237.9,22,92.47,Đ.QL13 Cũ,P.Hiệp Bình Phước,Q.Thủ Đức,
+3,2,169.4,4.25,25.08,Ấp 1,X.Quy Đức,H.Bình Chánh,Hồ Chí Minh
+7,4,34.6,13.5,390.17,Đ.Hùng Vương,P.1,Q.10,Hồ Chí Minh
+3,3,31.1,6,192.92,Đ.Đoàn Thị Điểm,P.1,Q.Phú Nhuận,Hồ Chí Minh
+7,11,177.8,35,196.85,Đ.Hậu Giang,P.4,Q.Tân Bình,Hồ Chí Minh
+4,4,87.5,5.15,58.85,Đ.Vườn Lài,P.An Phú Đông,Q.12,Hồ Chí Minh
+2,2,43.9,2.8,63.78,Đ.Hiệp Thành 26,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,3,25.2,2.4,95.23,Đ.Tùng Thiện Vương,P.11,Q.8,Hồ Chí Minh
+1,1,28.1,1.5,53.38,Đ.Nguyễn Tuân,P.3,Q.Gò Vấp,Hồ Chí Minh
+2,1,52.9,3,56.71,Đ.Hiệp Thành 13,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,2,21.1,3.2,151.65,Đ.Bùi Văn Thêm,P.9,Q.Phú Nhuận,Hồ Chí Minh
+1,1,77.5,2.95,38.06,Đ.Tân Chánh Hiệp 13,P.Tân Chánh Hiệp,Q.12,
+4,3,51.7,5.95,115.08,Đ.Âu Dương Lân,P.3,Q.8,Hồ Chí Minh
+4,4,49.9,6.45,129.25,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+2,2,44.2,4.95,111.99,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,50.1,5.35,106.78,Đ.Số 12,P.Hiệp Bình Phước,Q.Thủ Đức,Hồ Chí Minh
+2,3,22.3,5.15,230.94,Đ.Phùng Văn Cung,P.2,Q.Phú Nhuận,Hồ Chí Minh
+4,3,84.42,6.55,77.58,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+4,3,36,6.65,184.72,Đ.Nguyễn Hiền,P.4,Q.3,Hồ Chí Minh
+3,3,50.8,9.6,188.97,Đ.Ba Tháng Hai,P.2,Q.11,Hồ Chí Minh
+7,6,43.8,8.36,190.89,Đ.Tô Hiến Thành,P.13,Q.10,Hồ Chí Minh
+3,4,28,5.85,208.92,Đ.Thích Quảng Đức,P.5,Q.Phú Nhuận,Hồ Chí Minh
+2,2,55,5.75,104.54,Đ.Số 8,P.11,Q.Gò Vấp,Hồ Chí Minh
+3,3,27.9,6.35,227.59,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,3,24,6.1,254.16,Đ.Nguyễn Đình Chiểu,P.4,Q.3,Hồ Chí Minh
+3,4,94.2,11,116.77,Đ.28B,P.Phước Long B,Q.9,Hồ Chí Minh
+8,8,103.6,16.9,163.12,Đ.C1,P.13,Q.Tân Bình,Hồ Chí Minh
+6,2,237.9,22,92.47,Đ.QL13 Cũ,P.Hiệp Bình Phước,Q.Thủ Đức,
+3,2,169.4,4.25,25.08,Ấp 1,X.Quy Đức,H.Bình Chánh,Hồ Chí Minh
+7,4,34.6,13.5,390.17,Đ.Hùng Vương,P.1,Q.10,Hồ Chí Minh
+3,3,31.1,6,192.92,Đ.Đoàn Thị Điểm,P.1,Q.Phú Nhuận,Hồ Chí Minh
+7,11,177.8,35,196.85,Đ.Hậu Giang,P.4,Q.Tân Bình,Hồ Chí Minh
+4,4,87.5,5.15,58.85,Đ.Vườn Lài,P.An Phú Đông,Q.12,Hồ Chí Minh
+2,2,43.9,2.8,63.78,Đ.Hiệp Thành 26,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,3,25.2,2.4,95.23,Đ.Tùng Thiện Vương,P.11,Q.8,Hồ Chí Minh
+1,1,28.1,1.5,53.38,Đ.Nguyễn Tuân,P.3,Q.Gò Vấp,Hồ Chí Minh
+2,1,52.9,3,56.71,Đ.Hiệp Thành 13,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,2,21.1,3.2,151.65,Đ.Bùi Văn Thêm,P.9,Q.Phú Nhuận,Hồ Chí Minh
+1,1,77.5,2.95,38.06,Đ.Tân Chánh Hiệp 13,P.Tân Chánh Hiệp,Q.12,
+4,3,51.7,5.95,115.08,Đ.Âu Dương Lân,P.3,Q.8,Hồ Chí Minh
+4,4,49.9,6.45,129.25,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+2,2,44.2,4.95,111.99,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,50.1,5.35,106.78,Đ.Số 12,P.Hiệp Bình Phước,Q.Thủ Đức,Hồ Chí Minh
+2,3,22.3,5.15,230.94,Đ.Phùng Văn Cung,P.2,Q.Phú Nhuận,Hồ Chí Minh
+4,3,84.42,6.55,77.58,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+4,3,36,6.65,184.72,Đ.Nguyễn Hiền,P.4,Q.3,Hồ Chí Minh
+3,3,50.8,9.6,188.97,Đ.Ba Tháng Hai,P.2,Q.11,Hồ Chí Minh
+7,6,43.8,8.36,190.89,Đ.Tô Hiến Thành,P.13,Q.10,Hồ Chí Minh
+3,4,28,5.85,208.92,Đ.Thích Quảng Đức,P.5,Q.Phú Nhuận,Hồ Chí Minh
+2,2,55,5.75,104.54,Đ.Số 8,P.11,Q.Gò Vấp,Hồ Chí Minh
+3,3,24,6.1,254.16,Đ.Nguyễn Đình Chiểu,P.4,Q.3,Hồ Chí Minh
+3,3,27.9,6.35,227.59,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,4,94.2,11,116.77,Đ.28B,P.Phước Long B,Q.9,Hồ Chí Minh
+8,8,103.6,16.9,163.12,Đ.C1,P.13,Q.Tân Bình,Hồ Chí Minh
+6,2,237.9,22,92.47,Đ.QL13 Cũ,P.Hiệp Bình Phước,Q.Thủ Đức,
+3,2,169.4,4.25,25.08,Ấp 1,X.Quy Đức,H.Bình Chánh,Hồ Chí Minh
+7,4,34.6,13.5,390.17,Đ.Hùng Vương,P.1,Q.10,Hồ Chí Minh
+4,4,87.5,5.15,58.85,Đ.Vườn Lài,P.An Phú Đông,Q.12,Hồ Chí Minh
+3,3,31.1,6,192.92,Đ.Đoàn Thị Điểm,P.1,Q.Phú Nhuận,Hồ Chí Minh
+7,11,177.8,35,196.85,Đ.Hậu Giang,P.4,Q.Tân Bình,Hồ Chí Minh
+2,2,43.9,2.8,63.78,Đ.Hiệp Thành 26,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,3,25.2,2.4,95.23,Đ.Tùng Thiện Vương,P.11,Q.8,Hồ Chí Minh
+1,1,28.1,1.5,53.38,Đ.Nguyễn Tuân,P.3,Q.Gò Vấp,Hồ Chí Minh
+2,1,52.9,3,56.71,Đ.Hiệp Thành 13,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,2,21.1,3.2,151.65,Đ.Bùi Văn Thêm,P.9,Q.Phú Nhuận,Hồ Chí Minh
+1,1,77.5,2.95,38.06,Đ.Tân Chánh Hiệp 13,P.Tân Chánh Hiệp,Q.12,
+4,3,51.7,5.95,115.08,Đ.Âu Dương Lân,P.3,Q.8,Hồ Chí Minh
+4,4,49.9,6.45,129.25,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+2,2,44.2,4.95,111.99,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,50.1,5.35,106.78,Đ.Số 12,P.Hiệp Bình Phước,Q.Thủ Đức,Hồ Chí Minh
+2,3,22.3,5.15,230.94,Đ.Phùng Văn Cung,P.2,Q.Phú Nhuận,Hồ Chí Minh
+4,3,84.42,6.55,77.58,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+4,3,36,6.65,184.72,Đ.Nguyễn Hiền,P.4,Q.3,Hồ Chí Minh
+3,3,50.8,9.6,188.97,Đ.Ba Tháng Hai,P.2,Q.11,Hồ Chí Minh
+7,6,43.8,8.36,190.89,Đ.Tô Hiến Thành,P.13,Q.10,Hồ Chí Minh
+3,4,28,5.85,208.92,Đ.Thích Quảng Đức,P.5,Q.Phú Nhuận,Hồ Chí Minh
+2,2,55,5.75,104.54,Đ.Số 8,P.11,Q.Gò Vấp,Hồ Chí Minh
+3,3,27.9,6.35,227.59,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,3,24,6.1,254.16,Đ.Nguyễn Đình Chiểu,P.4,Q.3,Hồ Chí Minh
+3,4,94.2,11,116.77,Đ.28B,P.Phước Long B,Q.9,Hồ Chí Minh
+8,8,103.6,16.9,163.12,Đ.C1,P.13,Q.Tân Bình,Hồ Chí Minh
+6,2,237.9,22,92.47,Đ.QL13 Cũ,P.Hiệp Bình Phước,Q.Thủ Đức,
+3,2,169.4,4.25,25.08,Ấp 1,X.Quy Đức,H.Bình Chánh,Hồ Chí Minh
+7,4,34.6,13.5,390.17,Đ.Hùng Vương,P.1,Q.10,Hồ Chí Minh
+3,3,31.1,6,192.92,Đ.Đoàn Thị Điểm,P.1,Q.Phú Nhuận,Hồ Chí Minh
+7,11,177.8,35,196.85,Đ.Hậu Giang,P.4,Q.Tân Bình,Hồ Chí Minh
+4,4,87.5,5.15,58.85,Đ.Vườn Lài,P.An Phú Đông,Q.12,Hồ Chí Minh
+2,2,43.9,2.8,63.78,Đ.Hiệp Thành 26,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,3,25.2,2.4,95.23,Đ.Tùng Thiện Vương,P.11,Q.8,Hồ Chí Minh
+1,1,28.1,1.5,53.38,Đ.Nguyễn Tuân,P.3,Q.Gò Vấp,Hồ Chí Minh
+2,1,52.9,3,56.71,Đ.Hiệp Thành 13,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,2,21.1,3.2,151.65,Đ.Bùi Văn Thêm,P.9,Q.Phú Nhuận,Hồ Chí Minh
+1,1,77.5,2.95,38.06,Đ.Tân Chánh Hiệp 13,P.Tân Chánh Hiệp,Q.12,
+4,3,51.7,5.95,115.08,Đ.Âu Dương Lân,P.3,Q.8,Hồ Chí Minh
+4,4,49.9,6.45,129.25,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+2,2,44.2,4.95,111.99,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,50.1,5.35,106.78,Đ.Số 12,P.Hiệp Bình Phước,Q.Thủ Đức,Hồ Chí Minh
+2,3,22.3,5.15,230.94,Đ.Phùng Văn Cung,P.2,Q.Phú Nhuận,Hồ Chí Minh
+4,3,84.42,6.55,77.58,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+4,3,36,6.65,184.72,Đ.Nguyễn Hiền,P.4,Q.3,Hồ Chí Minh
+3,3,50.8,9.6,188.97,Đ.Ba Tháng Hai,P.2,Q.11,Hồ Chí Minh
+7,6,43.8,8.36,190.89,Đ.Tô Hiến Thành,P.13,Q.10,Hồ Chí Minh
+3,4,28,5.85,208.92,Đ.Thích Quảng Đức,P.5,Q.Phú Nhuận,Hồ Chí Minh
+2,2,55,5.75,104.54,Đ.Số 8,P.11,Q.Gò Vấp,Hồ Chí Minh
+3,3,24,6.1,254.16,Đ.Nguyễn Đình Chiểu,P.4,Q.3,Hồ Chí Minh
+3,3,27.9,6.35,227.59,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,4,94.2,11,116.77,Đ.28B,P.Phước Long B,Q.9,Hồ Chí Minh
+8,8,103.6,16.9,163.12,Đ.C1,P.13,Q.Tân Bình,Hồ Chí Minh
+6,2,237.9,22,92.47,Đ.QL13 Cũ,P.Hiệp Bình Phước,Q.Thủ Đức,
+3,2,169.4,4.25,25.08,Ấp 1,X.Quy Đức,H.Bình Chánh,Hồ Chí Minh
+7,4,34.6,13.5,390.17,Đ.Hùng Vương,P.1,Q.10,Hồ Chí Minh
+4,4,87.5,5.15,58.85,Đ.Vườn Lài,P.An Phú Đông,Q.12,Hồ Chí Minh
+3,3,31.1,6,192.92,Đ.Đoàn Thị Điểm,P.1,Q.Phú Nhuận,Hồ Chí Minh
+7,11,177.8,35,196.85,Đ.Hậu Giang,P.4,Q.Tân Bình,Hồ Chí Minh
+2,2,43.9,2.8,63.78,Đ.Hiệp Thành 26,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,3,25.2,2.4,95.23,Đ.Tùng Thiện Vương,P.11,Q.8,Hồ Chí Minh
+1,1,28.1,1.5,53.38,Đ.Nguyễn Tuân,P.3,Q.Gò Vấp,Hồ Chí Minh
+2,1,52.9,3,56.71,Đ.Hiệp Thành 13,P.Hiệp Thành,Q.12,Hồ Chí Minh
+2,2,21.1,3.2,151.65,Đ.Bùi Văn Thêm,P.9,Q.Phú Nhuận,Hồ Chí Minh
+1,1,77.5,2.95,38.06,Đ.Tân Chánh Hiệp 13,P.Tân Chánh Hiệp,Q.12,
+4,3,51.7,5.95,115.08,Đ.Âu Dương Lân,P.3,Q.8,Hồ Chí Minh
+4,4,49.9,6.45,129.25,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+2,2,44.2,4.95,111.99,Đ.Nơ Trang Long,P.12,Q.Bình Thạnh,Hồ Chí Minh
+3,3,50.1,5.35,106.78,Đ.Số 12,P.Hiệp Bình Phước,Q.Thủ Đức,Hồ Chí Minh
+2,3,22.3,5.15,230.94,Đ.Phùng Văn Cung,P.2,Q.Phú Nhuận,Hồ Chí Minh
+4,3,84.42,6.55,77.58,Đ.Phan Huy Ích,P.14,Q.Gò Vấp,Hồ Chí Minh
+4,3,36,6.65,184.72,Đ.Nguyễn Hiền,P.4,Q.3,Hồ Chí Minh
+3,3,50.8,9.6,188.97,Đ.Ba Tháng Hai,P.2,Q.11,Hồ Chí Minh
+7,6,43.8,8.36,190.89,Đ.Tô Hiến Thành,P.13,Q.10,Hồ Chí Minh
+3,4,28,5.85,208.92,Đ.Thích Quảng Đức,P.5,Q.Phú Nhuận,Hồ Chí Minh
+2,2,55,5.75,104.54,Đ.Số 8,P.11,Q.Gò Vấp,Hồ Chí Minh
+3,3,24,6.1,254.16,Đ.Nguyễn Đình Chiểu,P.4,Q.3,Hồ Chí Minh
+3,3,27.9,6.35,227.59,Đ.Nguyễn Văn Đậu,P.11,Q.Bình Thạnh,Hồ Chí Minh
+3,4,94.2,11,116.77,Đ.28B,P.Phước Long B,Q.9,Hồ Chí Minh
+8,8,103.6,16.9,163.12,Đ.C1,P.13,Q.Tân Bình,Hồ Chí Minh
